@@ -1,0 +1,7 @@
+D:\visüscuc\DuncikaMoexd\bin\Debug\DuncikaMoexd.exe.config
+D:\visüscuc\DuncikaMoexd\bin\Debug\DuncikaMoexd.exe
+D:\visüscuc\DuncikaMoexd\bin\Debug\DuncikaMoexd.pdb
+D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.csprojAssemblyReference.cache
+D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.csproj.CoreCompileInputs.cache
+D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.exe
+D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.pdb
