@@ -71,7 +71,7 @@ namespace DuncikaMoexd
                 }
             } while(nemmehettovább);
         }
-        private static void Main(string[] args)
+        private static void Main()
         {
             bool whileosvaltozo = true;
             while (whileosvaltozo)
