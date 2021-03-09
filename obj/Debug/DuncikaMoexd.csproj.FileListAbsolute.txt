@@ -5,3 +5,10 @@ D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.csprojAssemblyReference.cache
 D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.csproj.CoreCompileInputs.cache
 D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.exe
 D:\visüscuc\DuncikaMoexd\obj\Debug\DuncikaMoexd.pdb
+D:\visüscuc\Repoxd\menomoeadatbazis\bin\Debug\DuncikaMoexd.exe.config
+D:\visüscuc\Repoxd\menomoeadatbazis\bin\Debug\DuncikaMoexd.exe
+D:\visüscuc\Repoxd\menomoeadatbazis\bin\Debug\DuncikaMoexd.pdb
+D:\visüscuc\Repoxd\menomoeadatbazis\obj\Debug\DuncikaMoexd.csprojAssemblyReference.cache
+D:\visüscuc\Repoxd\menomoeadatbazis\obj\Debug\DuncikaMoexd.csproj.CoreCompileInputs.cache
+D:\visüscuc\Repoxd\menomoeadatbazis\obj\Debug\DuncikaMoexd.exe
+D:\visüscuc\Repoxd\menomoeadatbazis\obj\Debug\DuncikaMoexd.pdb
